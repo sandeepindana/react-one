@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": " This is first blog",
+      "author": "maari",
+      "id": 1
+    },
+    {
+      "title": "Second Blog",
+      "body": " This is second blog",
+      "author": "raghu",
+      "id": 2
+    },
+    {
+      "title": "Third Blog",
+      "body": " This is third blog",
+      "author": "barry",
+      "id": 3
+    },
+    {
+      "title": "fafsfSAFF",
+      "body": "FADAFA",
+      "author": "barry",
+      "id": 4
+    }
+  ]
+}
